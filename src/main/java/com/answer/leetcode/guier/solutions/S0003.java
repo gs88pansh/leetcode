@@ -5,7 +5,7 @@ package com.answer.leetcode.guier.solutions;
  *
  * 类型：解题思路滑动窗口
  */
-public class S0002 {
+public class S0003 {
     public int lengthOfLongestSubstring(String s) {
         int[] numsOfChars = new int[1028];
         int leftIndex = 0;
@@ -27,7 +27,7 @@ public class S0002 {
     }
 
     public static void main(String[] args) {
-        S0002 s0002 = new S0002();
-        System.out.println(s0002.lengthOfLongestSubstring("pwwkew"));
+        S0003 s0003 = new S0003();
+        System.out.println(s0003.lengthOfLongestSubstring("pwwkew"));
     }
 }

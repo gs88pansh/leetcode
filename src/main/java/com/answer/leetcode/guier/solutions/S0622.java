@@ -1,4 +1,4 @@
 package com.answer.leetcode.guier.solutions;
 
-public class Solution0623 {
+public class S0622 {
 }
